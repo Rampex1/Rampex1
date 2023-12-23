@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Zhou</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif”/>
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" width="40" height="40" />
 
 - 📚 I am a student at **McGill University**
 
