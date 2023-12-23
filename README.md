@@ -1,9 +1,5 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm David Zhou</h1>
-<h3 align="center">A Software Engineer from Canada</h3>
-
-
 
 - 📚 I am a student at **McGill University**
 
