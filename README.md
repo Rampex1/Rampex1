@@ -7,7 +7,7 @@
 
 - 📚 I am a student at **McGill University**
 
-- 📄 All of my projects are available at [Coming Soon](Coming Soon)
+- 📄 All of my projects are available at [(david-zhou-portfolio)](https://david-zhou-portfolio.netlify.app/)
 
 - 👨‍💻 I am currently learning **React**
 
