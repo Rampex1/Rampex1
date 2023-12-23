@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Zhou</h1>
 <h3 align="center">A Software Engineer from Canada</h3>
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" width="40" height="40" />
+
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyOTE0OTgsIm5iZiI6MTcwMzI5MTE5OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjIzVDAwMjYzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkNjAyOWM4YmEwYzUyYmQ0YjZjMjNkMDAwNzg5MzBkNmM1MjJiMWViZmVjN2U4NDQyMjBmZDMxZTRhYjg3YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AG2Vsq7Nm15VzOZYQRPpKb-9o9XhfytLyz19zsFKk-E" />
 
 - 📚 I am a student at **McGill University**
 
