@@ -3,7 +3,7 @@
 
 - 📚 I am a student at **McGill University**
 
-- 👨‍💻 I am currently building a **Go Interpreter**
+- 👨‍💻 I am currently studying **System Design**
 
 - 📄 All of my projects are available at [david-zhou-portfolio](https://david-zhou-portfolio.netlify.app/)
 
